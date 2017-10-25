@@ -250,6 +250,12 @@ header .sp_navi_li li a {
     margin-bottom: 0px
   }
 }
+  
+iframe.facebook-like-box{
+  border: 0;
+  background-color: transparent;
+  overflow: hidden;
+}
 
 footer {
   background-color: #42b9d0;
